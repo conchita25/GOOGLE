@@ -1,0 +1,82 @@
+</DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+       <title>buscador gogle</title>
+       <link rel="stylesheet" href="ESTILOS.CSS"/>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul class="nav-right-section">
+                    <li>
+                        <a href="">Gmail</a>
+                    </li>
+                    <li>
+                        <a href="">Imagenes</a>
+                    </li>
+                    <li class="menu-icon">
+                        <a href=""></a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="https://lh3.googleusercontent.com/ogw/AF2bZyjnvuT06261Ar3rsFQQH2dxMqST3zP3-UhcuOBzn4F5_g=s32-c-mo" alt="foto perfil">
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        
+        <main>
+            <section class="main-logo">
+                <img src="https://1000marcas.net/wp-content/uploads/2020/02/Google-Logo.png" alt="">
+            </section>
+
+            <section class="main-input">
+                <div class="main-input-container">
+                    <span class="search-icon"></span>
+                    <input type="text">
+                    <a class="micro-icon" href=""></a>
+                </div>
+            </section>
+
+            <section class="main-buttons">
+                <div>
+                    <button>buscar con google</button>
+                </div>
+                <div> 
+                    <button>me siento emocionada</button>
+                </div>
+            </section> 
+        </main>
+
+        <footer>
+            <ul class="footer-left">
+                <li>
+                    <a href="">Sobre Google</a>
+                </li>
+                <li>
+                    <a href="">Publicidad</a>
+                </li>
+                <li>
+                    <a href="">Negocios</a>
+                </li>
+                <li>
+                    <a href="">Cómo Funciona la Búsqueda</a>
+                </li>
+            </ul>
+
+            <ul class="footer-right">
+                <li>
+                    <a href=""> Privacidad</a>
+                </li>
+                <li>
+                    <a href="">Condiciones</a>
+                </li>
+                <li>
+                    <a href="">Configuración</a>
+                </li>
+            </ul>
+        </footer>
+    </body>
+</html>
